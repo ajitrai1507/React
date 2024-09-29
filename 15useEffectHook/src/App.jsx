@@ -80,7 +80,7 @@ function App() {
 
       {/* <ResizeComponent /> */}
 
-      <MultiEffectComponent />
+      {/* <MultiEffectComponent /> */}
 
 
 
